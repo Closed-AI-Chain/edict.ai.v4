@@ -9,6 +9,7 @@ charset-normalizer==3.2.0
 click==8.1.7
 cloudinary
 colorama==0.4.6
+cv2-tools
 decorator==4.4.2
 Django
 filelock==3.12.4
