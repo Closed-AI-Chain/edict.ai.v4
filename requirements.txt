@@ -1,6 +1,6 @@
 ﻿asgiref==3.7.2
 azure-ai-translation-text==1.0.0b1
-azure-cognitiveservices-speech==1.32.1
+azure-cognitiveservices-speech
 azure-core==1.29.4
 beautifulsoup4==4.12.2
 cachetools==5.3.1
